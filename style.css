@@ -1,0 +1,27 @@
+.heading1 {
+    color: #000000;
+}
+
+.paragraph1 {
+    color: #FF0000;
+}
+
+.heading2 {
+    color: #2400FF;
+}
+
+.paragraph2 {
+    color: #FF2929;
+}
+
+.heading3 {
+    color: #00461C;
+}
+
+.paragraph3 {
+    color: #000000;
+}
+
+body {
+    background-color: gray;
+}
